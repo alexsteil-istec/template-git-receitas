@@ -1,12 +1,17 @@
 # Relatório Final - Página Colaborativa de Receitas
 
 ## Integrantes do Grupo
-- Nome 1
-- Nome 2
-- Nome 3
+- Nome do projeto:
+- Integrantes:
+- Repositório: [link]
 
 ## Branches Criadas
-Descreva cada branch e sua função no projeto.
+- Descreva as branches criadas e o objetivo de cada uma.
+- Informe como os merges foram realizados (com PR? Revisão?).
+
+## Histórico de Commits
+- Exemplo de boas mensagens de commit.
+- Print ou link do gráfico de contribuições.
 
 ## Issues Criadas
 Liste as issues criadas e quem ficou responsável por cada uma.
@@ -17,8 +22,11 @@ Descreva o processo de revisão e merges realizados.
 ## Conflitos e Resoluções
 Explique se houve conflitos e como foram resolvidos.
 
+## Dificuldades Enfrentadas
+Dúvidas ou problemas que surgiram.
+
 ## Principais Comandos Git Utilizados
 Liste e comente comandos importantes usados no projeto.
 
 ## Conclusão
-O que o grupo aprendeu com esta atividade?
+Aprendizados principais do grupo com a atividade.
