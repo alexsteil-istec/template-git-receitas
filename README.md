@@ -14,4 +14,4 @@ Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando
 Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licença
-MIT
+ISTEC
