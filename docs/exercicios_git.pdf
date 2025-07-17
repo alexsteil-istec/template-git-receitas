@@ -1,0 +1,12 @@
+Projeto Final Colaborativo com Git e GitHub
+
+1. Crie um repositório no GitHub e convide os membros do grupo.
+2. Clone o repositório localmente com git clone.
+3. Crie uma branch chamada feature/nomedareceita.
+4. Crie um arquivo com uma receita em formato Markdown ou HTML.
+5. Faça commit com uma mensagem clara, ex: feat: adicionar receita de pão de queijo.
+6. Suba as alterações com git push origin feature/nomedareceita.
+7. Crie um Pull Request e solicite revisão de outro membro.
+8. Resolva conflitos se existirem, com apoio do grupo.
+9. Crie issues para registrar novas ideias ou tarefas.
+10. No final, completem o relatório em docs/relatorio.md
